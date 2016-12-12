@@ -1,0 +1,19 @@
+{
+  "name": "ipc-bus",
+  "version": "0.5.0",
+  "description": "An IPC Bus for Node.js!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pi0/ipc-bus.git"
+  },
+  "author": "Pooya Parsa <pooya@pi0.ir>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pi0/ipc-bus/issues"
+  },
+  "homepage": "https://github.com/pi0/ipc-bus#readme"
+}
